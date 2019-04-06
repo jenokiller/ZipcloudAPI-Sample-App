@@ -1,0 +1,19 @@
+.zipcode-input-area {
+  display: flex;
+  flex-direction: column;
+  label {
+    input {
+      height: 1rem;
+      width: 10rem;
+    }
+  }
+
+  span {
+    color: red;
+  }
+}
+
+.zipcode-search-result {
+  display: flex;
+  flex-direction: column;
+}

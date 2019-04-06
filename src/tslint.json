@@ -4,13 +4,13 @@
         "directive-selector": [
             true,
             "attribute",
-            "cors",
+            "zipcloud",
             "camelCase"
         ],
         "component-selector": [
             true,
             "element",
-            "cors",
+            "zipcloud",
             "kebab-case"
         ]
     }
